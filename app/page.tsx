@@ -14,7 +14,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="py-16 mt-16 text-center text-gray-500">
-          <p>&copy; {new Date().getFullYear()} Module Migrator. All rights reserved.</p>
+          <p>Available soon.</p>
         </footer>
       </div>
     </div>
