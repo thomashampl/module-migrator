@@ -14,7 +14,7 @@
 		"test:run": "vitest run"
 	},
 	"dependencies": {
-		"@integromat/module-migrator-core": "^0.0.1",
+		"@integromat/module-migrator-core": "^0.1.0",
 		"@tailwindcss/postcss": "^4.1.18",
 		"lucide-react": "^0.562.0",
 		"react": "^19.2.4",
